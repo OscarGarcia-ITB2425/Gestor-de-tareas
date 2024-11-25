@@ -1,16 +1,5 @@
+#Gestor de Tareas para la terminal
 
----
-
-### **Proyecto 2: Gestor de Tareas por Línea de Comandos**
-Un programa en Python para gestionar tareas desde la terminal. Incluye funcionalidades para añadir, listar, marcar como completadas y eliminar tareas. Ideal para aprender a trabajar con archivos y organizar datos.
-
-#### Archivos del proyecto:
-1. **`gestor_tareas.py`**: Código principal.
-2. **`README.md`**: Instrucciones de uso.
-3. **`tareas.txt`**: Archivo de almacenamiento de las tareas.
-
-#### Código principal (`gestor_tareas.py`):
-```python
 import os
 
 ARCHIVO_TAREAS = "tareas.txt"
